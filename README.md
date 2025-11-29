@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning  C/C++ MATLAB STM32/GD32/AT32/APM32/CW32 Embedded Linux ...
 - 🤔 I’m looking for help with I hope to learn from the bosses of embedded IoT development
 - 💬 Ask me about：A electronic information engineering major student hoping to become an IoT Development Engineer or Embedded system Development Engineer
-- Embedded-Note [https://gitee.com/End-ING/embedded-note](https://gitee.com/End-ING)
+- 嵌入式国产芯片开发交流平台 [[https://gitee.com/End-ING/embedded-note](https://gitee.com/xcet)]
